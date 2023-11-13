@@ -2,7 +2,6 @@
 
 <h1>🔎About Me</h1>
 <p>Hi, I'm begginer application tester, ready for a exciting journey into the world of software testing. </p>
-<br>
 <p>I've just completed </p>
 
 <ul>
