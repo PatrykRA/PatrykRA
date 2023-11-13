@@ -23,3 +23,6 @@
   <li><a href="https://github.com/PatrykRA/MyFirstProject">  Json & XML</a> - </li>
   <li><a href="https://github.com/PatrykRA/MyFirstProject"> CLI (cmd) </a> - </li>
 </ul>
+<br>
+<h1>My Projects </h1>
+<tt>Currently i have only one small project, I am in the process of working on a new one, should finish it by 26.11. So if you're still interested, check it out when it's ready, I'll be sure to add it here. This project will be much bigger, and more advanced than the first one 😁. </tt>
