@@ -8,6 +8,9 @@
 
 <p>Fell free to explore my past work by checking out the rest of my portfolio. Let's get to know each other better and discover how I can bring value to your project. 🔥</p>
 
+<h1>Tech Skills</h1>
+<tt> Below is a list with my skills, if you want to check any of them, click on the right icon. There you will find My work, and the tasks I had to do</tt>
+
 <ul>
-<li><a href="https://github.com/PatrykRA/MyFirstProject"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width=25 ></a>  Mój pierwszy mały projekt </li>
+<li><a href="https://github.com/PatrykRA/MyFirstProject">  Test cases & Bug reports</a> -no tasks, just TC and BR examples </li>
 </ul>
