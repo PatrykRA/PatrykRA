@@ -15,4 +15,11 @@
   <li><a href="https://google.com">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width=25 align="bottom" > </a> -some Postman examples</li>
   <li><a href="https://google.com">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width=25 align="bottom" > </a> -some SQL examples</li>
 <li><a href="https://github.com/PatrykRA/MyFirstProject">  Test cases & Bug reports</a> -no tasks, just TC and BR examples </li>
+  <li><a href="https://github.com/PatrykRA/MyFirstProject"> Static testing</a> -</li>
+<li><a href="https://github.com/PatrykRA/MyFirstProject">  Black box testing</a> - </li>
+<li><a href="https://github.com/PatrykRA/MyFirstProject">  White box testing</a> - 
+</li>
+  <li><a href="https://github.com/PatrykRA/MyFirstProject">  Devtools </a> - </li>
+  <li><a href="https://github.com/PatrykRA/MyFirstProject">  Json & XML</a> - </li>
+  <li><a href="https://github.com/PatrykRA/MyFirstProject"> CLI (cmd) </a> - </li>
 </ul>
