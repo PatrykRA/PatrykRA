@@ -8,7 +8,7 @@
 
 <p>Fell free to explore my past work by checking out the rest of my portfolio. Let's get to know each other better and discover how I can bring value to your project. 🔥</p>
 
-<h1>Tech Skills</h1>
+<h1> 👩‍💻 Tech Skills</h1>
 <tt> Below is a list with my skills, if you want to check any of them, click on the right icon. There you will find My work, and the tasks I had to do</tt>
 
 <ul>
@@ -24,7 +24,7 @@
   <li><a href="https://github.com/PatrykRA/MyFirstProject"> CLI (cmd) </a> - </li>
 </ul>
 <br>
-<h1>My Projects </h1>
+<h1>🧩 My Projects </h1>
 <tt>Currently i have only one small project, I am in the process of working on a new one, should finish it by 26.11. So if you're still interested, check it out when it's ready, I'll be sure to add it here. This project will be much bigger, and more advanced than the first one 😁. </tt>
 <br>
 <a href="https://github.com/PatrykRA/goit.git"> 🔧 Web application testing </a> -My first small project.
