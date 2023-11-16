@@ -12,7 +12,7 @@
 <tt> Below is a list with my skills, if you want to check any of them, click on the right icon. There you will find My work, and the tasks I had to do</tt>
 
 <ul>
-  <li><a href="https://google.com">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width=25 align="bottom" > </a> -some Postman examples</li>
+  <li><a href="https://github.com/PatrykRA/POSTMAN.git">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width=25 align="bottom" > </a> -Task & examples of Postman</li>
   <li><a href="https://google.com">  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width=25 align="bottom" > </a> -some SQL examples</li>
 <li><a href="https://github.com/PatrykRA/MyFirstProject">  Test cases & Bug reports</a> -no tasks, just TC and BR examples </li>
   <li><a href="https://github.com/PatrykRA/MyFirstProject"> Static testing</a> -</li>
