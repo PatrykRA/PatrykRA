@@ -17,7 +17,6 @@
 <li><a href="https://github.com/PatrykRA/TC-BR.git">  Test cases & Bug reports</a> -no tasks, just TC and BR examples </li>
   <li><a href="https://github.com/PatrykRA/White-box.git">  White box testing</a> - </li>
   <li><a href="https://github.com/PatrykRA/Devtools.git">  Devtools </a> - </li>
-  <li><a href="https://github.com/PatrykRA/MyFirstProject">  Json & XML</a> - </li>
   <li><a href="https://github.com/PatrykRA/MyFirstProject"> CLI (cmd) </a> - </li>
 </ul>
 <br>
