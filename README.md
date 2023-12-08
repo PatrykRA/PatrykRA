@@ -26,6 +26,6 @@
 </ul>
 <br>
 <h1>🧩 My Projects </h1>
-<tt>Currently i have only one small project, I am in the process of working on a new one, This project will be much bigger, and more advanced than the first one 😁. </tt>
 <br>
 <a href="https://github.com/PatrykRA/MyFirstProject"> 🔧 Web application testing </a> -My first small project.
+<a href="https://github.com/PatrykRA/Wallet.git"> Project "Wallet"💸
