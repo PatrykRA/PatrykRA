@@ -8,7 +8,7 @@
 
 <p>Fell free to explore my past work by checking out the rest of my portfolio. Let's get to know each other better and discover how I can bring value to your project. 🔥</p>
 <br>
-<h1>Certificates</h1> 
+<h1>📝 Certificates</h1> 
 
 
 <h1> 👩‍💻 Tech Skills</h1>
