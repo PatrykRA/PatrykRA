@@ -7,6 +7,8 @@
 <p>Currently, I've set specific goals for myself: completing the final project in the course, finding a job as a tester, and passing the ISTQB exam. I'm know that enthusiasm alone won't achive these goals, so I'm prepared to work hard to acomplish them.</p>
 
 <p>Fell free to explore my past work by checking out the rest of my portfolio. Let's get to know each other better and discover how I can bring value to your project. 🔥</p>
+<br>
+<h1>Certificates</h1>
 
 <h1> 👩‍💻 Tech Skills</h1>
 <tt> Below is a list with my skills, if you want to check any of them, click on the right icon. There you will find My work, and the tasks I had to do</tt>
