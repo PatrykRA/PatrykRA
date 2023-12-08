@@ -28,4 +28,5 @@
 <h1>🧩 My Projects </h1>
 <br>
 <a href="https://github.com/PatrykRA/MyFirstProject"> 🔧 Web application testing </a> -My first small project.
-<a href="https://github.com/PatrykRA/Wallet.git"> Project "Wallet"💸
+<br>
+<a href="https://github.com/PatrykRA/Wallet.git"> Project "Wallet"💸</a> - A decent, complicated project
